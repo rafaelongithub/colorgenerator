@@ -1,0 +1,37 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+body {
+	background: darkgrey;
+}
+
+div#general {
+	width: 14rem;
+	margin: 0 auto;
+}
+
+div#banner {
+	width: 300px;
+	height: 120px;
+	border-radius: 20px 20px 20px 20px;
+	background: #444;
+}
+
+p#color-banner {
+	color: #BBB;
+	padding: 30px;
+	font-size: 1.25rem;
+}
+
+a#generator-btn {
+	font-size: 1.25rem;
+	text-decoration: none;
+	background: blue;
+	color: #BBB;
+	margin: 0 auto;
+	display: block;
+	width: 100px;
+}
